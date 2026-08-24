@@ -1,27 +1,29 @@
-## Hi, I'm Jirawat 👋
+### Hi, I'm Jirawat 👋
+**R&D Engineer & AI Specialist · AI-Driven Builder**
 
-### R&D Engineer & AI Specialist · AI-Driven Builder
+I turn business problems into working web apps, automations, and internal AI tools — by
+**directing AI coding tools (Claude Code)** from scope to production. Backed by a finance &
+accounting background and a manager's lens: impact, cost, ROI.
 
-I turn business problems into working **web apps, automations, and internal AI tools**
-— by directing AI coding tools (Claude Code) from design to production.
-Backed by a **finance & accounting** background.
+#### 🧭 How I work
+I'm an **AI operator, not a hand-coder.** I own scope, business rules, verification, and product
+decisions, and I direct AI agents to implement. My edge is turning a real painpoint into
+something that ships — and proving it's correct — fast.
 
----
+#### 🚀 Selected work
+| Project | What it is | Status |
+|---|---|---|
+| **[Treasure Test](https://examprep-web-one.vercel.app/)** | Thai gov-exam prep SaaS — practice tests, weak-point analysis | 🟢 Live · [code](https://github.com/Lion2538/examprep-web) |
+| **[Portfolio](https://jirawat-s-dark-sky-portfolio.vercel.app)** | R&D / AI-builder portfolio (3D, dark-gold) | 🟢 Live |
+| **HR Analytics & Recruitment** | Multi-company HR platform + grounded LLM assistant | 🔒 Internal · case study |
+| **Multi-Company Accounting** | Double-entry, Thai VAT/WHT, gated month-end close | 🔒 Internal · case study |
 
-**🏗️ What I do**
-- Build & ship real full-stack products via AI-assisted development (HR, accounting, productivity, exam-prep)
-- Create custom AI — custom GPTs & multi-agent workflows for internal automation
-- Former accountant → I translate real back-office workflows into software
-- Manager mindset — prioritize by impact, cost & ROI (build-vs-buy)
+#### 🔨 Currently building
+Agentic internal tools for a multi-business group — HR, accounting, and delivery-tracking
+platforms, all AI-directed.
 
-**🚀 Featured — [Treasure Test](https://examprep-web-one.vercel.app/)**
-A live quiz platform for Thai government exams (ก.พ. + ตำรวจ) — practice tests,
-weakness analysis, and personalized study plans.
-`Next.js` · `TypeScript` · `Supabase` · `Vercel` — [source →](https://github.com/Lion2538/examprep-web)
+#### 🧰 Stack & tools
+**Build:** Angular · Next.js · TypeScript · Express · PostgreSQL · Supabase · Vercel
+**AI:** Claude Code · ChatGPT · Gemini · Perplexity · Midjourney · Kling · Veo 3 · Suno
 
-**🛠️ Stack & Tools**
-Dev: `Next.js` · `TypeScript` · `Supabase` · `Vercel`
-AI: `Claude Code` · `ChatGPT` · `Gemini` · `Perplexity` · `Midjourney` · `Kling` · `Veo 3` · `Suno`
-
-**📫 Reach me**
-tennishant@hotmail.com
+📫 **tennishant@hotmail.com**
