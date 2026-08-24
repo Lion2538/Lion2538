@@ -2,11 +2,11 @@
 
 <h3 align="center">🤖 AI Solutions Builder — I architect &amp; direct AI agents to ship real products; AI writes the code.</h3>
 
-<p align="center"><b>ex-accountant → I build AI back-office / finance tools that actually understand the work.</b></p>
+<p align="center"><b>business & management background → I build internal AI tools (HR, finance, ops) that fit how a company actually works.</b></p>
 
 <p align="center">
 I turn messy business problems into working web apps, automations, and internal AI tools by directing AI agents (Claude Code) end-to-end.<br>
-Finance &amp; accounting background, a manager's lens on impact / cost / ROI. <b>I own the scope, the rules, and the verification — the AI writes the code.</b>
+Business & management background, a manager's lens on impact / cost / ROI. <b>I own the scope, the rules, and the verification — the AI writes the code.</b>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Finance &amp; accounting background, a manager's lens on impact / cost / ROI. <b
 
 I'm an **AI operator, not a hand-coder.** My edge isn't typing code — it's:
 
-- **Scoping the real problem** — a finance/ops background lets me smell the actual pain, not the surface request.
+- **Scoping the real problem** — a business & management background lets me read the actual business pain, not the surface request.
 - **Directing AI agents** (Claude Code) to build the thing.
 - **Owning the rules &amp; verification** — I decide what "correct" means and check every output.
 - **Manager's lens** — impact, cost, ROI, payback. Not tech for tech's sake.
