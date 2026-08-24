@@ -1,29 +1,70 @@
-### Hi, I'm Jirawat 👋
-**R&D Engineer & AI Specialist · AI-Driven Builder**
+<h1 align="center">Hi, I'm Jirawat 👋</h1>
 
-I turn business problems into working web apps, automations, and internal AI tools — by
-**directing AI coding tools (Claude Code)** from scope to production. Backed by a finance &
-accounting background and a manager's lens: impact, cost, ROI.
+<h3 align="center">🤖 AI Solutions Builder — I architect &amp; direct AI agents to ship real products; AI writes the code.</h3>
 
-#### 🧭 How I work
-I'm an **AI operator, not a hand-coder.** I own scope, business rules, verification, and product
-decisions, and I direct AI agents to implement. My edge is turning a real painpoint into
-something that ships — and proving it's correct — fast.
+<p align="center"><b>ex-accountant → I build AI back-office / finance tools that actually understand the work.</b></p>
 
-#### 🚀 Selected work
-| Project | What it is | Status |
+<p align="center">
+I turn messy business problems into working web apps, automations, and internal AI tools by directing AI agents (Claude Code) end-to-end.<br>
+Finance &amp; accounting background, a manager's lens on impact / cost / ROI. <b>I own the scope, the rules, and the verification — the AI writes the code.</b>
+</p>
+
+<p align="center">
+  <a href="https://jirawat-s-dark-sky-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-2ea44f?style=flat-square"></a>
+  <a href="mailto:tennishant@hotmail.com"><img src="https://img.shields.io/badge/Email-tennishant%40hotmail.com-blue?style=flat-square"></a>
+</p>
+
+---
+
+## 🚀 Selected Work
+
+| Project | What it is | Links |
 |---|---|---|
-| **[Treasure Test](https://examprep-web-one.vercel.app/)** | Thai gov-exam prep SaaS — practice tests, weak-point analysis | 🟢 Live · [code](https://github.com/Lion2538/examprep-web) |
-| **[Portfolio](https://jirawat-s-dark-sky-portfolio.vercel.app)** | R&D / AI-builder portfolio (3D, dark-gold) | 🟢 Live |
-| **HR Analytics & Recruitment** | Multi-company HR platform + grounded LLM assistant | 🔒 Internal · case study |
-| **Multi-Company Accounting** | Double-entry, Thai VAT/WHT, gated month-end close | 🔒 Internal · case study |
+| **Treasure Test** | A live, public web app I scoped and directed end-to-end — try it right in the browser. Source is open. | [Live ↗](https://examprep-web-one.vercel.app/) · [Code ↗](https://github.com/Lion2538/examprep-web) |
+| **Dark-Sky Portfolio** | My personal portfolio (the site this links to). Directed build, shipped on Vercel. | [Live ↗](https://jirawat-s-dark-sky-portfolio.vercel.app) |
+| **HR Analytics & Recruitment** | Internal multi-company HR platform + grounded AI assistant. *Code private (employer IP).* | [Case study ↗](https://github.com/Lion2538/hr-platform-casestudy) |
+| **Multi-Company Accounting** | Internal double-entry accounting across entities — Thai VAT/WHT, month-end close. *Code private.* | [Case study ↗](https://github.com/Lion2538/accounting-platform-casestudy) |
+| **Project Performance Tracker** | Internal multi-project delivery tracker — delays, budgets, EVM/SPI. *Code private.* | [Case study ↗](https://github.com/Lion2538/project-tracker-casestudy) |
 
-#### 🔨 Currently building
-Agentic internal tools for a multi-business group — HR, accounting, and delivery-tracking
-platforms, all AI-directed.
+🛠️ **Currently building:** agentic internal tools for a multi-business group.
 
-#### 🧰 Stack & tools
-**Build:** Angular · Next.js · TypeScript · Express · PostgreSQL · Supabase · Vercel
-**AI:** Claude Code · ChatGPT · Gemini · Perplexity · Midjourney · Kling · Veo 3 · Suno
+---
 
-📫 **tennishant@hotmail.com**
+## 🎓 Speaking & Teaching
+
+- **Guest Lecturer — Payap University** · *Digital Entrepreneurship Potential Development* (Faculty of Business Administration) · **Feb 2026**
+  Taught business students how to *actually* use AI to build production-ready things — not just prompt toys.
+  📸 [Poster &amp; photos on my portfolio ↗](https://jirawat-s-dark-sky-portfolio.vercel.app)
+
+---
+
+## 🧭 How I Work
+
+I'm an **AI operator, not a hand-coder.** My edge isn't typing code — it's:
+
+- **Scoping the real problem** — a finance/ops background lets me smell the actual pain, not the surface request.
+- **Directing AI agents** (Claude Code) to build the thing.
+- **Owning the rules &amp; verification** — I decide what "correct" means and check every output.
+- **Manager's lens** — impact, cost, ROI, payback. Not tech for tech's sake.
+
+If you need someone who ships working tools fast by commanding AI — and who won't overclaim being a software engineer — that's me.
+
+---
+
+## 🧱 What My Builds Run On
+
+> *The stacks my AI agents build in — I direct &amp; verify. I don't claim to hand-write these.*
+
+**Web:** Angular · Next.js · TypeScript · Express
+**Data:** PostgreSQL · Supabase
+**Ship:** Vercel
+**AI:** Claude Code · agentic workflows · prompt &amp; verification pipelines
+
+---
+
+## 📫 Contact
+
+| | |
+|---|---|
+| 📧 **Email** | tennishant@hotmail.com |
+| 🌐 **Portfolio** | https://jirawat-s-dark-sky-portfolio.vercel.app |
